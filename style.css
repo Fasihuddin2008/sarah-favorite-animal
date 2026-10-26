@@ -1,0 +1,22 @@
+.allbody{
+    background-color: skyblue;
+}
+.Home{
+    color: white;
+    background-color: lightgreen;
+}
+.moose video{
+    max-width: 1500;
+    min-width: 1500;
+    max-height: 1500;
+    min-height: 1500;
+}
+.moose{
+    color: brown;
+}
+.were{
+    color: cadetblue;
+}
+.video{
+    color: darkblue;
+}
